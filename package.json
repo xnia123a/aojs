@@ -1,0 +1,23 @@
+{
+  "name": "aojs",
+  "version": "1.0.0",
+  "description": "artwebs aojs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electron/electron-quick-start.git"
+  },
+  "keywords": [
+    "artwebs",
+    "aojs",
+  ],
+  "author": "artwebs",
+  "license": "CC0-1.0",
+  "homepage": "https://liuhb.cn",
+  "devDependencies": {
+
+  }
+}
